@@ -10,9 +10,6 @@ A python script to extract ChromeGo Proxies
 
 </div>
 
-### 未来更新计划
-
-[] 添加更多节点来源
 
 > 鸣谢
 > - 感谢[ChromeGo](https://github.com/bannedbook/fanqiang)项目
